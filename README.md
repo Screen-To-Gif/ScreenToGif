@@ -7,7 +7,7 @@
 <a href="https://github.com/NickeManarin/ScreenToGif/stargazers" target="_blank">
  <img alt="GitHub stars" src="https://img.shields.io/github/stars/NickeManarin/ScreenToGif.svg" />
 </a>
-<a href="https://github.com/NickeManarin/ScreenToGif/releases" target="_blank">
+<a href="https://github.com/Screen-To-Gif/ScreenToGif/releases" target="_blank">
  <img alt="All releases" src="https://img.shields.io/github/downloads/NickeManarin/ScreenToGif/total.svg" />
 </a>
 <a href="https://chocolatey.org/packages/screentogif" target="_blank">
@@ -19,7 +19,7 @@
 <p align="center">This tool allows you to record a selected area of your <strong>screen</strong>, live feed from your <strong>webcam</strong> or live drawings from a <strong>sketchboard</strong>. Afterward, you can edit and save the animation as a gif, apng, video, psd or png image.</p>
 
 <p align="center">
-    <a href="https://github.com/NickeManarin/ScreenToGif/releases" target="_blank">
+    <a href="https://github.com/Screen-To-Gif/ScreenToGif/releases" target="_blank">
         <img align="center" alt="download" src="https://www.screentogif.com/wiki/download-now.png"/>
     </a>
 </p>
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/NickeManarin/ScreenToGif/releases/latest" target="_blank">
+<a href="https://github.com/Screen-To-Gif/ScreenToGif/releases/latest" target="_blank">
  <img alt="Latest GitHub release" src="https://img.shields.io/github/release/nickemanarin/screentogif.svg" />
 </a>
 <a href="https://chocolatey.org/packages/screentogif" target="_blank">
